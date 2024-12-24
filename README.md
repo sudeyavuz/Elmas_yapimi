@@ -1,1 +1,1 @@
-# yıldızlardan elmas şekli
+# yıldızlardan elmas şekli oluşturma 
